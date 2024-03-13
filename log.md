@@ -12,7 +12,7 @@ link- https://github.com/Luke-544/Day2-Python.git
 ## thoughts:
 So far so good, everything seems to be working out well
 
-#Day 3: March 12, 2024
+# Day 3: March 12, 2024
 ## Today's progress:
 Today i learnt about type casting where i can remove some letters in a word using python
 link- https://github.com/Luke-544/Day3-python.git
