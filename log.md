@@ -18,3 +18,10 @@ Today i learnt about type casting where i can remove some letters in a word usin
 link- https://github.com/Luke-544/Day3-python.git
 ## thoughts:
 Am really understanding the basics of this language. Its fun
+
+# Day 4: March 13, 2024
+## Today's Progress:
+Today i went deeper into if statements and the logical operators(and,or,not)
+link- https://github.com/Luke-544/Day4-pyhton.git
+## thoughts
+The fun is just beginning
