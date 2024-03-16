@@ -25,3 +25,10 @@ Today i went deeper into if statements and the logical operators(and,or,not)
 link- https://github.com/Luke-544/Day4-pyhton.git
 ## thoughts
 The fun is just beginning
+
+# Day 5: March 16, 2024
+## Today's Progress:
+Today I at the while loops
+link- https://github.com/Luke-544/Day4-pyhton.git
+## thoughts
+So far so good
