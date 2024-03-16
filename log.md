@@ -29,6 +29,6 @@ The fun is just beginning
 # Day 5: March 16, 2024
 ## Today's Progress:
 Today I at the while loops
-link- https://github.com/Luke-544/Day4-pyhton.git
+link- https://github.com/Luke-544/Day5-python.git
 ## thoughts
 So far so good
