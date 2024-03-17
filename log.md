@@ -32,3 +32,10 @@ Today I at the while loops
 link- https://github.com/Luke-544/Day5-python.git
 ## thoughts
 So far so good
+
+# Day 6: March 17, 2024
+## Today's progress:
+Got to learn about for loops and even creating a small timer app using the for loop
+link- https://github.com/Luke-544/Day6-python.git
+## thoughts
+Everything keeps getting extra but still fun to learn
