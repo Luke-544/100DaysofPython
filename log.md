@@ -39,3 +39,10 @@ Got to learn about for loops and even creating a small timer app using the for l
 link- https://github.com/Luke-544/Day6-python.git
 ## thoughts
 Everything keeps getting extra but still fun to learn
+
+# Day 7: March 18, 2024
+## Today's progress:
+Got to learn about nested loops and the control loop statements in python
+link- https://github.com/Luke-544/Day7-python.git
+## thoughts
+happy i got this far
