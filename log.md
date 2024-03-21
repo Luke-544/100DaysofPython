@@ -46,3 +46,11 @@ Got to learn about nested loops and the control loop statements in python
 link- https://github.com/Luke-544/Day7-python.git
 ## thoughts
 happy i got this far
+
+# Day 8: March 21, 2024
+## Today's progress:
+I got to go over lists in python
+link- https://github.com/Luke-544/Day8-python.git
+## thoughts
+I thank God i got this far
+
