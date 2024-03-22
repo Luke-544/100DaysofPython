@@ -54,3 +54,10 @@ link- https://github.com/Luke-544/Day8-python.git
 ## thoughts
 I thank God i got this far
 
+# Day 9: March 23, 2024
+## Today's progress:
+i learnt about 2D lists and tuples in python
+link- https://github.com/Luke-544/Day9-python.git
+## thoughts
+Am enjoying every bit of python
+
