@@ -61,3 +61,10 @@ link- https://github.com/Luke-544/Day9-python.git
 ## thoughts
 Am enjoying every bit of python
 
+# Day 10: March 23, 2024
+## Today's progress:
+I learnt about sets and dictionaries in python
+link- https://github.com/Luke-544/Day10-python.git
+## thoughts
+This was interesting to learn
+
