@@ -68,3 +68,10 @@ link- https://github.com/Luke-544/Day10-python.git
 ## thoughts
 This was interesting to learn
 
+# Day 11: March 25, 2024
+## Today's progress:
+I learnt about index operators as well as an introduction to functions in python
+link- https://github.com/Luke-544/Day11-python.git
+##thoughts
+I've realized that i have to keep reminding myself of the previous lessons so i don't forget
+
