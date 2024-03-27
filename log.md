@@ -75,7 +75,7 @@ link- https://github.com/Luke-544/Day11-python.git
 ##thoughts
 I've realized that i have to keep reminding myself of the previous lessons so i don't forget
 
-#Day 12: March 27, 2024
+# Day 12: March 27, 2024
 ## Today's progress:
 I learnt about return statements and keyword arguments in python and how they work
 link- https://github.com/Luke-544/Day12-python.git
