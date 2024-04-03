@@ -82,3 +82,10 @@ link- https://github.com/Luke-544/Day12-python.git
 ##thoughts
 Things are starting to get more interesting
 
+# Day 13: April 3, 2024
+## Today's progress:
+I learnt about nested function calls in python
+link- https://github.com/Luke-544/Day13-python.git
+##thoughts
+I apologise for loosing track along the way but am back
+
